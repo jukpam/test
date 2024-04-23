@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --bg_footer: lightpink;
+    --bg_header: lightgrey;
+    --fontSize_tittle:15px;
+}
